@@ -1,5 +1,4 @@
-# adillahakuu
-# Hi 👋 I'm Muhammad Adillah
+# Hi 👋, I'm dill
 
 🎓 Multimedia Engineer
 
@@ -9,16 +8,12 @@
 
 🎬 Video Editor
 
----
-
 ## About Me
 
-- 🌱 Currently learning Flask
-- 🤖 Machine Learning
-- 📱 Android Developer
-- 🎮 Unity Developer
-
----
+- 🌱 Sedang belajar Flask dan Machine Learning
+- 🤖 Mengembangkan proyek Analisis Sentimen menggunakan KNN dan Chi Square
+- 🎮 Mengembangkan game edukasi berbasis Unity
+- 📱 Tertarik pada Web Development dan Android Development
 
 ## Tech Stack
 
@@ -27,8 +22,8 @@
 - HTML
 - CSS
 - JavaScript
-- Unity
 - MySQL
+- Unity
 - Git
 - Figma
 - Photoshop
