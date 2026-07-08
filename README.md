@@ -68,21 +68,11 @@ Motto          : "From Photoshop to Python."
 
 ### 📌 Repo Utama
 
-<details>
-<summary>⚙️ Cara ganti ke repo aslimu (klik untuk lihat)</summary>
-<br/>
-
-Ganti `REPO-1` dan `REPO-2` di kode README (ada di `href` dan `repo=`) dengan nama repository asli kamu, contoh: `repo=belajar-flask-app`.
-
-</details>
-<br/><div align="center">
-<a href="https://github.com/adillahaku/Content-development-project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=adillahaku&repo=Content-development-project&hide_border=true&bg_color=0D0D0D&title_color=FF7A45&icon_color=FF7A45&text_color=E0E0E0" width="45%"/>
-</a>
-<a href="https://github.com/adillahaku/SM-Portal-PT-Laris">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=adillahaku&repo=SM-Portal-PT-Laris&hide_border=true&bg_color=0D0D0D&title_color=FF7A45&icon_color=FF7A45&text_color=E0E0E0" width="45%"/>
-</a>
+<div align="center">
+<img src="https://raw.githubusercontent.com/adillahaku/adillahaku/main/assets/repo-pins.svg" width="100%"/>
 </div>
+
+> ⚙️ Kartu ini digenerate langsung dari GitHub API lewat Action `repo-pins.yml` — tidak gantung ke vercel sama sekali, jadi datanya (deskripsi, bahasa, star) selalu akurat & tidak akan blank. Kalau mau ganti/tambah repo, edit baris `REPOS:` di file `repo-pins.yml`.
 
 <br/>
 
