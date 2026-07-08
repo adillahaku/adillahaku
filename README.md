@@ -8,11 +8,7 @@
 
 <br/>
 
-[![Instagram](https://img.shields.io/badge/Instagram-1A1A1A?style=for-the-badge&logo=instagram&logoColor=FF7A45)](https://www.instagram.com/mmd_adillah/)
-[![TikTok](https://img.shields.io/badge/TikTok-1A1A1A?style=for-the-badge&logo=tiktok&logoColor=FF7A45)](https://www.tiktok.com/@grk.vsl)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1A1A1A?style=for-the-badge&logo=linkedin&logoColor=FF7A45)](https://www.linkedin.com/in/muhammad-adillah)
-[![Linktree](https://img.shields.io/badge/Linktree-1A1A1A?style=for-the-badge&logo=linktree&logoColor=FF7A45)](https://linktr.ee/GRK.vsl)
-[![Gmail](https://img.shields.io/badge/Gmail-1A1A1A?style=for-the-badge&logo=gmail&logoColor=FF7A45)](mailto:mhdadellah@gmail.com)
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=adillahaku&color=FF7A45&style=for-the-badge&label=PROFILE+VIEWS&labelColor=1A1A1A)
 
@@ -20,21 +16,7 @@
 
 ---
 
-### 👋 Tentang <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.gif" width="28"/>
 
-```yaml
-Nama           : diells
-Peran          : Graphic Designer → belajar jadi Fullstack Developer
-Status         : 🚧 On Progress — masih terus belajar
-Fokus saat ini : HTML, CSS, JavaScript, Python, Flask, MySQL
-Motto          : "From Photoshop to Python."
-```
-
-- 🎨 Basic Graphic Designer — biasa main di Photoshop, Premiere Pro, After Effects, Figma
-- 🚀 Sekarang lagi on progress belajar **Fullstack Development**
-- 🧩 Fokus belajar: HTML, CSS, JavaScript, Python, Flask, MySQL, Git
-- 🌱 Percaya proses — dari visual design pelan-pelan merambah ke logic & kode
-- 💬 Terbuka diskusi soal transisi Design → Code, atau kolaborasi project
 
 <br/>
 
