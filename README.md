@@ -66,7 +66,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=adillahaku&repo=SM-Portal-PT-Laris&hide_border=true&bg_color=0D0D0D&title_color=FF7A45&icon_color=FF7A45&text_color=E0E0E0" width="45%"/>
 </a>
 <a href="https://github.com/adillahaku/Content-development-project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=adillahaku&repo=SM-Portal-PT-Laris&hide_border=true&bg_color=0D0D0D&title_color=FF7A45&icon_color=FF7A45&text_color=E0E0E0" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=adillahaku&repo=Content-development-project&hide_border=true&bg_color=0D0D0D&title_color=FF7A45&icon_color=FF7A45&text_color=E0E0E0" width="45%"/>
 </a>
 </div>
 
@@ -78,7 +78,7 @@
 <img src="https://raw.githubusercontent.com/adillahaku/adillahaku/main/metrics.svg" width="100%"/>
 </div>
 
-> ⚙️ Kartu ini digenerate otomatis oleh GitHub Action `metrics.yml` (statis, tidak gantung ke server pihak ketiga yang gampang rate-limit). Lihat instruksi setup di bawah.
+
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=adillahaku&hide_border=true&background=0D0D0D&ring=FF7A45&fire=FF7A45&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF7A45&sideLabels=CCCCCC&dates=888888" width="90%"/>
@@ -96,7 +96,7 @@
 <img src="https://raw.githubusercontent.com/adillahaku/adillahaku/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
 </div>
 
-> ⚙️ Grafik 3D yang otomatis berputar ini digenerate GitHub Action `profile-3d.yml` — lihat instruksi setup di bawah.
+
 
 <br/>
 
@@ -106,7 +106,7 @@
 <img src="https://raw.githubusercontent.com/adillahaku/adillahaku/output/github-contribution-grid-snake.svg" width="100%" />
 </div>
 
-> ⚙️ Animasi ular muncul setelah GitHub Action `snake.yml` dipasang & dijalankan minimal sekali (lihat instruksi setup).
+
 
 <br/>
 
