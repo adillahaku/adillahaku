@@ -26,7 +26,7 @@
 <img src="https://raw.githubusercontent.com/adillahaku/adillahaku/main/assets/learning-path.svg" width="100%"/>
 </div>
 
-> 🚧 Semuanya masih terus dipelajari — sengaja tanpa angka persentase, karena skill nggak bisa diukur cuma dari itu.
+
 
 <br/>
 
@@ -54,7 +54,7 @@
 <img src="https://raw.githubusercontent.com/adillahaku/adillahaku/main/assets/repo-pins.svg" width="100%"/>
 </div>
 
-> ⚙️ Kartu ini digenerate langsung dari GitHub API lewat Action `repo-pins.yml` — tidak gantung ke vercel sama sekali, jadi datanya (deskripsi, bahasa, star) selalu akurat & tidak akan blank. Kalau mau ganti/tambah repo, edit baris `REPOS:` di file `repo-pins.yml`.
+
 
 <br/>
 
@@ -64,7 +64,7 @@
 <img src="https://raw.githubusercontent.com/adillahaku/adillahaku/main/metrics.svg" width="100%"/>
 </div>
 
-> ⚙️ Kartu ini digenerate otomatis oleh GitHub Action `metrics.yml` (statis, tidak gantung ke server pihak ketiga yang gampang rate-limit). Lihat instruksi setup di bawah.
+
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=adillahaku&hide_border=true&background=0D0D0D&ring=FF7A45&fire=FF7A45&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF7A45&sideLabels=CCCCCC&dates=888888" width="90%"/>
@@ -74,7 +74,7 @@
 <img src="https://raw.githubusercontent.com/adillahaku/adillahaku/main/trophy.svg" width="100%"/>
 </div>
 
-> ⚙️ Trophy ini digenerate statis lewat GitHub Action `trophy.yml` — dulu pakai layanan vercel publik yang ternyata memang sering di-pause/rate-limit (diakui developernya sendiri), sekarang sudah pindah biar stabil.
+
 
 <br/>
 
@@ -84,7 +84,7 @@
 <img src="https://raw.githubusercontent.com/adillahaku/adillahaku/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
 </div>
 
-> ⚙️ Grafik 3D yang otomatis berputar ini digenerate GitHub Action `profile-3d.yml` — lihat instruksi setup di bawah.
+
 
 <br/>
 
@@ -94,7 +94,7 @@
 <img src="https://raw.githubusercontent.com/adillahaku/adillahaku/output/github-contribution-grid-snake.svg" width="100%" />
 </div>
 
-> ⚙️ Animasi ular muncul setelah GitHub Action `snake.yml` dipasang & dijalankan minimal sekali (lihat instruksi setup).
+
 
 <br/>
 
