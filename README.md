@@ -20,7 +20,7 @@
 
 ---
 
-### 👋 Tentang
+### 👋 Tentang <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.gif" width="28"/>
 
 ```yaml
 Nama           : diells
@@ -40,13 +40,32 @@ Motto          : "From Photoshop to Python."
 
 ### 🎯 Learning Path — Fullstack Development
 
-- [x] HTML & CSS
-- [x] JavaScript Dasar
-- [x] Python & Flask
-- [ ] MySQL & Database Design
-- [ ] REST API
-- [ ] Frontend Framework (React / Vue)
-- [ ] Git Workflow & Deployment
+<div align="center">
+
+`HTML & CSS`
+<img src="https://progress-bar.dev/90?color=FF7A45&width=250"/>
+
+`JavaScript`
+<img src="https://progress-bar.dev/65?color=FF7A45&width=250"/>
+
+`Python & Flask`
+<img src="https://progress-bar.dev/55?color=FF7A45&width=250"/>
+
+`MySQL & Database Design`
+<img src="https://progress-bar.dev/30?color=FF7A45&width=250"/>
+
+`REST API`
+<img src="https://progress-bar.dev/20?color=FF7A45&width=250"/>
+
+`Frontend Framework (React/Vue)`
+<img src="https://progress-bar.dev/15?color=FF7A45&width=250"/>
+
+`Git Workflow & Deployment`
+<img src="https://progress-bar.dev/25?color=FF7A45&width=250"/>
+
+</div>
+
+> 📝 Angka persentase di atas cuma estimasi kasar dari aku — sesuaikan lagi sendiri sesuai progres belajarmu yang sebenarnya.
 
 <br/>
 
@@ -70,11 +89,14 @@ Motto          : "From Photoshop to Python."
 
 ### 📌 Repo Utama
 
-<!--
-  Ganti REPO-1 dan REPO-2 di bawah dengan nama repository utamamu
-  Contoh: repo=belajar-flask-app
--->
-<div align="center">
+<details>
+<summary>⚙️ Cara ganti ke repo aslimu (klik untuk lihat)</summary>
+<br/>
+
+Ganti `REPO-1` dan `REPO-2` di kode README (ada di `href` dan `repo=`) dengan nama repository asli kamu, contoh: `repo=belajar-flask-app`.
+
+</details>
+<br/><div align="center">
 <a href="https://github.com/adillahaku/REPO-1">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=adillahaku&repo=REPO-1&hide_border=true&bg_color=0D0D0D&title_color=FF7A45&icon_color=FF7A45&text_color=E0E0E0" width="45%"/>
 </a>
@@ -100,6 +122,16 @@ Motto          : "From Photoshop to Python."
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=adillahaku&theme=gruvbox&no-frame=true&row=1&column=7" width="100%"/>
 </div>
+
+<br/>
+
+### 🌐 3D Contribution Calendar (Animasi)
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/adillahaku/adillahaku/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+</div>
+
+> ⚙️ Grafik 3D yang otomatis berputar ini digenerate GitHub Action `profile-3d.yml` — lihat instruksi setup di bawah.
 
 <br/>
 
