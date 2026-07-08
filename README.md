@@ -20,9 +20,21 @@
 
 ---
 
-###  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.gif" width="28"/>
+### 👋 Tentang <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.gif" width="28"/>
 
+```yaml
+Nama           : diells
+Peran          : Graphic Designer → belajar jadi Fullstack Developer
+Status         : 🚧 On Progress — masih terus belajar
+Fokus saat ini : HTML, CSS, JavaScript, Python, Flask, MySQL
+Motto          : "From Photoshop to Python."
+```
 
+- 🎨 Basic Graphic Designer — biasa main di Photoshop, Premiere Pro, After Effects, Figma
+- 🚀 Sekarang lagi on progress belajar **Fullstack Development**
+- 🧩 Fokus belajar: HTML, CSS, JavaScript, Python, Flask, MySQL, Git
+- 🌱 Percaya proses — dari visual design pelan-pelan merambah ke logic & kode
+- 💬 Terbuka diskusi soal transisi Design → Code, atau kolaborasi project
 
 <br/>
 
@@ -32,7 +44,7 @@
 <img src="https://raw.githubusercontent.com/adillahaku/adillahaku/main/assets/learning-path.svg" width="100%"/>
 </div>
 
-
+> 🚧 Semuanya masih terus dipelajari — sengaja tanpa angka persentase, karena skill nggak bisa diukur cuma dari itu.
 
 <br/>
 
@@ -57,16 +69,18 @@
 ### 📌 Repo Utama
 
 <details>
+<summary>⚙️ Cara ganti ke repo aslimu (klik untuk lihat)</summary>
 <br/>
 
+Ganti `REPO-1` dan `REPO-2` di kode README (ada di `href` dan `repo=`) dengan nama repository asli kamu, contoh: `repo=belajar-flask-app`.
 
 </details>
 <br/><div align="center">
-<a href="https://github.com/adillahaku/SM-Portal-PT-Laris">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=adillahaku&repo=SM-Portal-PT-Laris&hide_border=true&bg_color=0D0D0D&title_color=FF7A45&icon_color=FF7A45&text_color=E0E0E0" width="45%"/>
+<a href="https://github.com/adillahaku/REPO-1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=adillahaku&repo=REPO-1&hide_border=true&bg_color=0D0D0D&title_color=FF7A45&icon_color=FF7A45&text_color=E0E0E0" width="45%"/>
 </a>
-<a href="https://github.com/adillahaku/Content-development-project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=adillahaku&repo=Content-development-project&hide_border=true&bg_color=0D0D0D&title_color=FF7A45&icon_color=FF7A45&text_color=E0E0E0" width="45%"/>
+<a href="https://github.com/adillahaku/REPO-2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=adillahaku&repo=REPO-2&hide_border=true&bg_color=0D0D0D&title_color=FF7A45&icon_color=FF7A45&text_color=E0E0E0" width="45%"/>
 </a>
 </div>
 
@@ -78,15 +92,17 @@
 <img src="https://raw.githubusercontent.com/adillahaku/adillahaku/main/metrics.svg" width="100%"/>
 </div>
 
-
+> ⚙️ Kartu ini digenerate otomatis oleh GitHub Action `metrics.yml` (statis, tidak gantung ke server pihak ketiga yang gampang rate-limit). Lihat instruksi setup di bawah.
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=adillahaku&hide_border=true&background=0D0D0D&ring=FF7A45&fire=FF7A45&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF7A45&sideLabels=CCCCCC&dates=888888" width="90%"/>
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=adillahaku&theme=gruvbox&no-frame=true&row=1&column=7" width="100%"/>
+<img src="https://raw.githubusercontent.com/adillahaku/adillahaku/main/trophy.svg" width="100%"/>
 </div>
+
+> ⚙️ Trophy ini digenerate statis lewat GitHub Action `trophy.yml` — dulu pakai layanan vercel publik yang ternyata memang sering di-pause/rate-limit (diakui developernya sendiri), sekarang sudah pindah biar stabil.
 
 <br/>
 
@@ -96,7 +112,7 @@
 <img src="https://raw.githubusercontent.com/adillahaku/adillahaku/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
 </div>
 
-
+> ⚙️ Grafik 3D yang otomatis berputar ini digenerate GitHub Action `profile-3d.yml` — lihat instruksi setup di bawah.
 
 <br/>
 
@@ -106,7 +122,7 @@
 <img src="https://raw.githubusercontent.com/adillahaku/adillahaku/output/github-contribution-grid-snake.svg" width="100%" />
 </div>
 
-
+> ⚙️ Animasi ular muncul setelah GitHub Action `snake.yml` dipasang & dijalankan minimal sekali (lihat instruksi setup).
 
 <br/>
 
