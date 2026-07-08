@@ -57,18 +57,16 @@
 ### 📌 Repo Utama
 
 <details>
-<summary>⚙️ Cara ganti ke repo aslimu (klik untuk lihat)</summary>
 <br/>
 
-Ganti `REPO-1` dan `REPO-2` di kode README (ada di `href` dan `repo=`) dengan nama repository asli kamu, contoh: `repo=belajar-flask-app`.
 
 </details>
 <br/><div align="center">
-<a href="https://github.com/adillahaku/REPO-1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=adillahaku&repo=REPO-1&hide_border=true&bg_color=0D0D0D&title_color=FF7A45&icon_color=FF7A45&text_color=E0E0E0" width="45%"/>
+<a href="https://github.com/adillahaku/SM-Portal-PT-Laris">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=adillahaku&repo=SM-Portal-PT-Laris&hide_border=true&bg_color=0D0D0D&title_color=FF7A45&icon_color=FF7A45&text_color=E0E0E0" width="45%"/>
 </a>
-<a href="https://github.com/adillahaku/REPO-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=adillahaku&repo=REPO-2&hide_border=true&bg_color=0D0D0D&title_color=FF7A45&icon_color=FF7A45&text_color=E0E0E0" width="45%"/>
+<a href="https://github.com/adillahaku/Content-development-project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=adillahaku&repo=SM-Portal-PT-Laris&hide_border=true&bg_color=0D0D0D&title_color=FF7A45&icon_color=FF7A45&text_color=E0E0E0" width="45%"/>
 </a>
 </div>
 
