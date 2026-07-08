@@ -1,0 +1,68 @@
+<svg width="100%" viewBox="0 0 1200 160" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0D0D0D"/>
+      <stop offset="50%" stop-color="#1a1210"/>
+      <stop offset="100%" stop-color="#0D0D0D"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="160" fill="url(#bg)" rx="10"/>
+
+  <line x1="0" y1="140" x2="1200" y2="140" stroke="#3A1F0F" stroke-width="2" stroke-dasharray="14,10">
+    <animate attributeName="stroke-dashoffset" values="0;-48" dur="0.6s" repeatCount="indefinite"/>
+  </line>
+
+  <g opacity="0.5">
+    <circle r="4" fill="#FF7A45">
+      <animateMotion dur="4s" repeatCount="indefinite" path="M -70 138 L 1180 138"/>
+      <animate attributeName="opacity" values="0;0.6;0" dur="0.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="3" fill="#FF7A45">
+      <animateMotion dur="4s" repeatCount="indefinite" begin="0.15s" path="M -70 138 L 1180 138"/>
+      <animate attributeName="opacity" values="0;0.5;0" dur="0.5s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g>
+    <g stroke="#EDEDED" stroke-width="3" fill="none" stroke-linecap="round" opacity="0.85">
+      <circle cx="0" cy="-42" r="8" fill="#EDEDED" stroke="none"/>
+      <line x1="0" y1="-34" x2="0" y2="-12"/>
+      <line x1="0" y1="-12" x2="-9" y2="8">
+        <animateTransform attributeName="transform" type="rotate" values="22 0 -12; -22 0 -12; 22 0 -12" dur="0.35s" repeatCount="indefinite"/>
+      </line>
+      <line x1="0" y1="-12" x2="9" y2="8">
+        <animateTransform attributeName="transform" type="rotate" values="-22 0 -12; 22 0 -12; -22 0 -12" dur="0.35s" repeatCount="indefinite"/>
+      </line>
+      <line x1="0" y1="-32" x2="-9" y2="-17">
+        <animateTransform attributeName="transform" type="rotate" values="-26 0 -32; 26 0 -32; -26 0 -32" dur="0.35s" repeatCount="indefinite"/>
+      </line>
+      <line x1="0" y1="-32" x2="9" y2="-17">
+        <animateTransform attributeName="transform" type="rotate" values="26 0 -32; -26 0 -32; 26 0 -32" dur="0.35s" repeatCount="indefinite"/>
+      </line>
+    </g>
+    <animateMotion dur="4s" repeatCount="indefinite" begin="0.75s" path="M -70 140 L 1180 140"/>
+  </g>
+
+  <g>
+    <g stroke="#FF7A45" stroke-width="3" fill="none" stroke-linecap="round">
+      <circle cx="0" cy="-42" r="8" fill="#FF7A45" stroke="none"/>
+      <line x1="0" y1="-34" x2="0" y2="-12"/>
+      <line x1="0" y1="-12" x2="-10" y2="8">
+        <animateTransform attributeName="transform" type="rotate" values="26 0 -12; -26 0 -12; 26 0 -12" dur="0.3s" repeatCount="indefinite"/>
+      </line>
+      <line x1="0" y1="-12" x2="10" y2="8">
+        <animateTransform attributeName="transform" type="rotate" values="-26 0 -12; 26 0 -12; -26 0 -12" dur="0.3s" repeatCount="indefinite"/>
+      </line>
+      <line x1="0" y1="-32" x2="-10" y2="-18">
+        <animateTransform attributeName="transform" type="rotate" values="-30 0 -32; 30 0 -32; -30 0 -32" dur="0.3s" repeatCount="indefinite"/>
+      </line>
+      <line x1="0" y1="-32" x2="10" y2="-18">
+        <animateTransform attributeName="transform" type="rotate" values="30 0 -32; -30 0 -32; 30 0 -32" dur="0.3s" repeatCount="indefinite"/>
+      </line>
+    </g>
+    <animateMotion dur="4s" repeatCount="indefinite" path="M -70 140 L 1180 140"/>
+  </g>
+
+  <text x="20" y="30" font-family="Fira Code, monospace" font-size="14" fill="#CCCCCC" opacity="0.7">still chasing the fullstack dream 🏃‍♂️💨</text>
+</svg>
