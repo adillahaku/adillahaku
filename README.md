@@ -2,6 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:3A1F0F,100:FF7A45&height=230&section=header&text=diells&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Graphic%20Designer%20%E2%86%92%20Fullstack%20Developer%20(on%20progress)&descAlignY=55&descSize=18" width="100%"/>
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/adillahaku/adillahaku/main/assets/chase-animation.svg" width="100%"/>
+</div>
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=FF7A45&center=true&vCenter=true&width=620&lines=From+Photoshop+to+Python+%F0%9F%90%8D;Basic+Graphic+Designer%2C+Future+Fullstack+Dev;Masih+on+progress...+selalu+belajar+%F0%9F%9A%A7;Design+meets+Code+%E2%9C%A8" alt="Typing SVG" />
 </a>
